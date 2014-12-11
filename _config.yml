@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Daniel Timek
 locale:           en_US
-url:              http://localhost:4000
+url:              //dtimek.github.io/minimal-mistakes
 
 
 # Jekyll configuration
